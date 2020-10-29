@@ -1662,7 +1662,12 @@ input, select, textarea {
 }
 
 @media screen and (max-width: 430px){
-	#main h2{
+	#main h2.large-title{
 		font-size: 0.8rem;
+	}
+
+	#main iframe.video{
+		width: auto;
+		height: auto;
 	}
 }
