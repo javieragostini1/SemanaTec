@@ -3,19 +3,15 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Sitio web del equipo 5 como parte del 1er Reporte de Avances (Colaborativo).
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
+Integrantes:
+Gilberto Ramos Salinas - A01734128
+Sergio Lopez Urzaiz - A00827462
+Rodrigo Hernández Murrieta - A00827274
+Javier Agostini - A00827216
+Aldo León López - A00827715
+Piero Jesús Flores López - A01197582
 
 Credits:
 
