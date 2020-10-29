@@ -1660,3 +1660,9 @@ input, select, textarea {
 .answer{
 	text-indent: 3rem;
 }
+
+@media screen and (max-width: 430px){
+	#main h2{
+		font-size: 0.75rem;
+	}
+}
