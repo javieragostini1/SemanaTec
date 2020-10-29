@@ -1663,6 +1663,6 @@ input, select, textarea {
 
 @media screen and (max-width: 430px){
 	#main h2{
-		font-size: 0.75rem;
+		font-size: 0.8rem;
 	}
 }
