@@ -238,7 +238,6 @@ input, select, textarea {
 			font-size: 1.25em;
 			line-height: 1.5;
 		}
-
 	}
 
 	sub {
@@ -1667,7 +1666,15 @@ input, select, textarea {
 	}
 
 	#main iframe.video{
-		width: auto;
-		height: auto;
+		width: 335px;
+		height: 188.4375px;
 	}
 }
+
+/* @media screen and (max-width: 736px){
+	#main iframe.video{
+		width: 530px;
+		height: 298.125px;
+	}
+
+}  */
