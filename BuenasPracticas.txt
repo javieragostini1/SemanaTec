@@ -1,0 +1,15 @@
+A la hora de realizar diferentes acciones en Git, hay estándares y buenas practicas que se esperan que realicemos en GitHub:
+1)	Los commits deben un único propósito
+a.	Muchas veces puede pasar que intentamos ser eficientes y que nuestros commits tengan varios propósitos, pero esto luego termina haciendo que no nos concentramos por completo en uno de los propósitos y ninguno de los propósitos se termina logrando. Si seguimos por este camino, se llegará a un efecto de bola de nieve y será muy difícil reparar cada cosa que no hayamos terminado. Es por eso por lo que es mejor que los commits tengan un único propósito, ya que en caso de querer reparar una única cosa podemos ver el commit y hacer los cambios necesarios. Esto también permite que los demás usuarios puedan ver cada cambio y no se queden atrás.
+
+2)	Escribir mensajes de commit descriptivos
+a.	A la hora de realizar un commit, tenemos que asegurarnos que pongamos una pequeña descripción de lo que estamos realizando ya que esto hará que sea más fácil para los otros usuarios entender que cambios realizamos, así como para que nosotros en un futuro podamos saber que hicimos en cada cambio. En caso de estar usando un sistema de tickets, conviene dejar el ID del ticket en la descripción. 
+
+3)	Commits tempranos y frecuentes
+a.	Uno de los problemas que termina pasando frecuentemente es que los usuarios intentan llegar a un “commit perfecto” y en caso de haber un problema, el problema será mayor. Es por esto que es mejor trabajar en pedazos pequeños que eventualmente llegaran al “commit perfecto” y así poder reparar cada error que encontremos al momento de encontrarlo y continuar sin problemas.
+
+4)	No alterar lo ya publicado
+a.	Cuando varias personas están trabajando en un proyecto y este es publicado, cualquier persona tiene visibilidad a este proyecto. Entonces, realizar un cambio en un proyecto ya publicado termina haciendo que todas las personas vean cambios y esto puede llevar a problemas. Siempre es mejor realizar cambios específicos en la rama en la que estamos trabajando para no entrar a ningún tipo de conflicto.
+
+5)	No usar archivos generados
+a.	Generalmente solo debemos de hacer commit con archivos que hayamos creado de manera manual, y que no simplemente se pueden “generar”. Poro esto, es mejor agregar un “.gitignore” en la raíz de nuestro proyecto para que Git pueda automáticamente detectar que archivos ignorar y no mantener en el registro.
