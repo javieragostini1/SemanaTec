@@ -13,3 +13,6 @@ a.	Cuando varias personas están trabajando en un proyecto y este es publicado, 
 
 5)	No usar archivos generados
 a.	Generalmente solo debemos de hacer commit con archivos que hayamos creado de manera manual, y que no simplemente se pueden “generar”. Poro esto, es mejor agregar un “.gitignore” en la raíz de nuestro proyecto para que Git pueda automáticamente detectar que archivos ignorar y no mantener en el registro.
+
+
+Sanket, S. (2019, 8 febrero). Best practices for using Git. Deep Source. https://deepsource.io/blog/git-best-practices/
