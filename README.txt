@@ -10,7 +10,7 @@ Gilberto Ramos Salinas - A01734128
 Sergio Lopez Urzaiz - A00827462
 Rodrigo Hernández Murrieta - A00827274
 Javier Agostini - A00827216
-Aldo León López - A00827715
+Aldo León Lópe - A00827715
 Piero Jesús Flores López - A01197582
 
 Credits:
